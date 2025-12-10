@@ -1,5 +1,4 @@
 # rEFInd Theme CachyOS Arch Linux
-###### AUTHOR: diegons490 fork by me...
 
 ##### make sure, rEFInd packages was intalled in your system, if it is not installed, you can install using:
 ```shell
@@ -323,3 +322,5 @@ esac
 ![screenshot](/rEFInd-active.jpeg?raw=true)
 
 </div>
+
+###### AUTHOR: diegons490 fork by me...
