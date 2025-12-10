@@ -15,8 +15,7 @@ sudo bash install-refind-themes.sh
 # This is the content of installer script:
 <details>
   <summary>Spoiler Alert: click to reveal... :)</summary>
-  
-...
+  
 ```bash
 
 #!/usr/bin/env bash
@@ -314,9 +313,7 @@ case "$menu_choice" in
     0) echo -e "${YELLOW}Cancelled by user.${RESET}" && exit 0 ;;
     *) echo -e "${RED}Invalid option. Exiting.${RESET}" && exit 1 ;;
 esac
-
-  ```
-...
+```
 </details>
 
 # Screenshot
